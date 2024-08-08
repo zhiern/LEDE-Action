@@ -13,7 +13,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: Rockchip-test
+  FIRMWARE_TAG: Rockchip-DHDAXCW
   TZ: Asia/Shanghai
 
 jobs:
